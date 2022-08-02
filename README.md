@@ -1,4 +1,4 @@
-# DQN_Trading_Paper
+# Deep Q-learning for a trading agent
 ### Abstract
 Reinforcement learning has been a widely explored technique to create agents that respond optimally in a
 time-series environment. This paper has been created to explore the limits of this technique using
